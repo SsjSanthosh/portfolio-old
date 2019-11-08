@@ -1,0 +1,49 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a,
+a:hover,
+a:visited,
+a:focus {
+  text-decoration: none;
+}
+
+#typed {
+  color: purple;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.portfolio {
+  margin-top: 100px;
+}
+
+.portfolio-row {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.portfolio-item {
+  font-size: 150%;
+  flex: 1 1 auto;
+  margin: 20px 0;
+}
+
+.email-span {
+  font-size: 200%;
+}
+
+.email {
+  color: black;
+}
+
+.fab {
+  cursor: pointer;
+}
+
+.fab:hover {
+  color: black;
+}
