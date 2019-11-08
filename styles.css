@@ -33,10 +33,11 @@ a:focus {
 }
 
 .email-span {
-  font-size: 200%;
+  font-size: 150%;
 }
 
 .email {
+  font-size: 180%;
   color: black;
 }
 
