@@ -12,7 +12,7 @@ a:focus {
 }
 
 #typed {
-  color: purple;
+  color: black;
   font-size: 40px;
   font-weight: 200;
 }
@@ -46,5 +46,9 @@ a:focus {
 }
 
 .fab:hover {
+  color: black;
+}
+
+.card-title {
   color: black;
 }
